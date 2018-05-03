@@ -1,10 +1,12 @@
-# Quasar App
+# Eat as you go app
 
-> A Quasar project
+> A food subscription app
 
 ## Build Setup
 
 ``` bash
+# clone the 'source' repository
+# navigate to the directory
 # install dependencies
 $ npm install
 
